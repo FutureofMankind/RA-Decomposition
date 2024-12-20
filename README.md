@@ -1,11 +1,13 @@
 Декомпозиция
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/5phj8pttme0wfwdx/branch/main?svg=true)](https://ci.appveyor.com/project/FutureofMankind/ra-decomposition/branch/main)
+
 Вы работаете в стартапе, который решил тягаться с самим Яндексом в части предоставления контента. Это, конечно же, шутка, но задача нешуточная.
 
 Вам принесли дизайн-макет, похожий на этот:
 
-![](./assets/decomposition.png)
+![](pic/decomposition.png)
 
 Что вам нужно сделать:
 
