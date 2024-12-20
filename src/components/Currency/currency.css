@@ -1,0 +1,18 @@
+.currency {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .currency__item {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .currency__exchange-name {
+    margin-right: 5px;
+    font-weight: 700;
+  }
+  
+  .currency__dynamics {
+    color: rgb(150, 150, 150);
+  }

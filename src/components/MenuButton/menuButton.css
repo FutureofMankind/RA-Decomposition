@@ -1,0 +1,17 @@
+.menu-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+    border: none;
+    background-color: transparent;
+  }
+  
+  .menu-button__dot {
+    display: block;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background-color: rgb(150, 150, 150);
+    cursor: pointer;
+  }

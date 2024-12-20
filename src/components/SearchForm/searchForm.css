@@ -1,0 +1,25 @@
+.search-form {
+    display: flex;
+    width: 100%;
+  }
+  
+  .search-form__input {
+    width: 100%;
+    padding: 10px 55px 10px 10px;
+    border: 2px solid gold;
+  
+    background-image: url("../../assets/icon-keyboard.svg");
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: right 15px center;
+  }
+  
+  .search-form__button {
+    padding: 10px 20px;
+    background-color: gold;
+    cursor: pointer;
+  }
+  
+  .search-form__button:focus {
+    background-color: rgb(231, 196, 0);
+  }

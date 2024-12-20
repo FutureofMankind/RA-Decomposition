@@ -1,0 +1,20 @@
+[
+    {
+      "id": "1",
+      "name": "USD MOEX",
+      "value": "63,52",
+      "dynamics": "+0,09"
+    },
+    {
+      "id": "2",
+      "name": "EUR MOEX",
+      "value": "70,86",
+      "dynamics": "+0,14"
+    },
+    {
+      "id": "3",
+      "name": "НЕФТЬ",
+      "value": "64,90",
+      "dynamics": "+1,63%"
+    }
+  ]

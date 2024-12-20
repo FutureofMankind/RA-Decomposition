@@ -1,0 +1,17 @@
+.weather {
+    gap: 20px;
+  }
+  
+  .weather__icon {
+    width: 40px;
+  }
+  
+  .weather__current-temperature {
+    font-size: 24px;
+    font-weight: 700;
+  }
+  
+  .weather__temperature {
+    display: flex;
+    flex-direction: column;
+  }
